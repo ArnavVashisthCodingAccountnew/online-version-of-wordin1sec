@@ -1,0 +1,2 @@
+# online-version-of-wordin1sec
+THE ONLINE DICTIONARY ::: REACT NATIVE :::  ALSO ALLOWS TO SEE PRONOUNCATION
